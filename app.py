@@ -217,7 +217,7 @@ HTML = """
             <div class="card">
                 <h2>Resume Upload</h2>
                 <div class="upload-area" id="uploadArea">
-                    <div class="icon">📄</div>
+                    <div class="icon"></div>
                     <p>Click to upload PDF resume</p>
                     <input type="file" id="resumeInput" accept=".pdf">
                 </div>
